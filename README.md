@@ -10,6 +10,7 @@
     <a href="https://travis-ci.com/rustwasm/wasm-pack"><img alt="Build Status" src="https://travis-ci.com/rustwasm/wasm-pack.svg?branch=master"/></a>
     <a href="https://ci.appveyor.com/project/ashleygwilliams/wasm-pack-071k0"><img alt="Build status" src="https://ci.appveyor.com/api/projects/status/iv1qtnqtv168ef8h?svg=true"/></a>
     <a href="https://crates.io/crates/wasm-pack"><img alt="crates.io" src="https://meritbadge.herokuapp.com/wasm-pack"/></a>
+    <a href="https://gitpod.io/#https://github.com/rustwasm/wasm-pack"><img alt="Gitpod Ready-to-Code" src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod"/></a>
   </p>
 
   <h3>
